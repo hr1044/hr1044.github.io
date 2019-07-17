@@ -1,3 +1,6 @@
+# Join Us
+- [github](https://github.com/hr1044/hr1044.github.io)
+
 # hr1044
 Please note that there exists NO other official account, app or merchandise except for the official domain and this repository.
 
